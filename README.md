@@ -32,9 +32,9 @@ See `architecture/architecture-diagram.png` for the full diagram.
 
 | Component | Repository |
 |---|---|
-| Sensor Simulation | [rideau-canal-sensor-simulation](https://github.com/YOUR_USERNAME/rideau-canal-sensor-simulation) |
-| Web Dashboard | [rideau-canal-dashboard](https://github.com/YOUR_USERNAME/rideau-canal-dashboard) |
-| This documentation | [rideau-canal-monitoring](https://github.com/YOUR_USERNAME/rideau-canal-monitoring) |
+| Sensor Simulation | [rideau-canal-sensor-simulation](https://github.com/uiqbal12/rideau-canal-sensor-simulation) |
+| Web Dashboard | [rideau-canal-dashboard](https://github.com/uiqbal12/rideau-canal-dashboard) |
+| This documentation | [rideau-canal-monitoring](https://github.com/uiqbal12/rideau-canal-monitoring) |
 
 ---
 
