@@ -4,6 +4,13 @@
 
 ---
 
+## Student Information
+- **Name:** Usama Iqbal
+- **Student ID:** 040777763
+- **Course:** CST8916 - Winter 2026
+
+---
+
 ## System Architecture
 
 ```
