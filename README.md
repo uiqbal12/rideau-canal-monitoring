@@ -105,9 +105,10 @@ See [`stream-analytics/query.sql`](stream-analytics/query.sql) for the full quer
 ---
 
 
-## AI Tools Disclosure
-
-Claude tool was used for code generation and code understanding throughout different components as needed. 
+## AI Tools Used
+- **Tool:** Claud
+- **Purpose:** Code generation, debugging, documentation, understanding generated code throughout components when needed
+- **Extent:** a skeleton given and asked to fill in the different functions and endpoints throughout different components, debugged with it when needed for desired outcome
 
 ## Running the Project
 
