@@ -104,6 +104,11 @@ See [`stream-analytics/query.sql`](stream-analytics/query.sql) for the full quer
 
 ---
 
+
+## AI Tools Disclosure
+
+Claude tool was used for code generation and code understanding throughout different components as needed. 
+
 ## Running the Project
 
 ### Step 1 — Start the sensor simulator
