@@ -1,5 +1,10 @@
 # Project Repository Links
 
+## Student Information
+- **Name:** Usama Iqbal
+- **Student ID:** 040777763
+- **Course:** CST8916 - Winter 2026
+
 | Repository | URL |
 |---|---|
 | Documentation (this repo) | https://github.com/uiqbal12/rideau-canal-monitoring |
